@@ -7,5 +7,7 @@ int main(){
 
     string fruit = "apple";
     
+    cout<<fruit;
+    
 return 0;
 }
