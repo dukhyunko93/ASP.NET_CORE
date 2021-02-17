@@ -5,3 +5,10 @@ C:\Users\TUser\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
 C:\Users\TUser\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
 C:\Users\TUser\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\TUser\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

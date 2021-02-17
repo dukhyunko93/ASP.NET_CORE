@@ -21,6 +21,25 @@ namespace HelloWorld
             Console.WriteLine(isWorking);
 
             Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);
+
+            string s = "1";
+            int i = Convert.ToInt32(s);
+            int j = int.Parse(s);
+
+            Console.WriteLine(i);
+            Console.WriteLine(j);
+
+            try
+            {
+                string str = "true";
+                bool b = Convert.ToBoolean(str);
+                Console.WriteLine(b);
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("The number could not be converted to a byte");
+            }
         }
+
     }
 }
