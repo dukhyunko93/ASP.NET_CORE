@@ -1,0 +1,7 @@
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Enums\Enums\obj\Debug\Enums.csprojAssemblyReference.cache
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Enums\Enums\obj\Debug\Enums.pdb
