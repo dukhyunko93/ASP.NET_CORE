@@ -1,0 +1,7 @@
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\String\String\bin\Debug\String.exe.config
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\String\String\bin\Debug\String.exe
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\String\String\bin\Debug\String.pdb
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\String\String\obj\Debug\String.csprojAssemblyReference.cache
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\String\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\String\String\obj\Debug\String.exe
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\String\String\obj\Debug\String.pdb
