@@ -1,0 +1,7 @@
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Referece and Value Type\Referece and Value Type\obj\Debug\Referece and Value Type.csprojAssemblyReference.cache
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Referece and Value Type\Referece and Value Type\obj\Debug\Referece and Value Type.csproj.CoreCompileInputs.cache
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Referece and Value Type\Referece and Value Type\bin\Debug\Referece and Value Type.exe.config
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Referece and Value Type\Referece and Value Type\bin\Debug\Referece and Value Type.exe
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Referece and Value Type\Referece and Value Type\bin\Debug\Referece and Value Type.pdb
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Referece and Value Type\Referece and Value Type\obj\Debug\Referece and Value Type.exe
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Referece and Value Type\Referece and Value Type\obj\Debug\Referece and Value Type.pdb
