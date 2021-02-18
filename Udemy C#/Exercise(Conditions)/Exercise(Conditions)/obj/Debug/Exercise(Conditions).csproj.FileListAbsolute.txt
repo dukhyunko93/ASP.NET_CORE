@@ -1,0 +1,7 @@
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Exercise(Conditions)\Exercise(Conditions)\bin\Debug\Exercise(Conditions).exe.config
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Exercise(Conditions)\Exercise(Conditions)\bin\Debug\Exercise(Conditions).exe
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Exercise(Conditions)\Exercise(Conditions)\bin\Debug\Exercise(Conditions).pdb
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Exercise(Conditions)\Exercise(Conditions)\obj\Debug\Exercise(Conditions).csprojAssemblyReference.cache
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Exercise(Conditions)\Exercise(Conditions)\obj\Debug\Exercise(Conditions).csproj.CoreCompileInputs.cache
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Exercise(Conditions)\Exercise(Conditions)\obj\Debug\Exercise(Conditions).exe
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Exercise(Conditions)\Exercise(Conditions)\obj\Debug\Exercise(Conditions).pdb
