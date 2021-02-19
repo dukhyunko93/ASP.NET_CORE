@@ -94,9 +94,6 @@ namespace Exercise__Iteration_
                 final = (current > final) ? current : final;
             }
             Console.WriteLine(final);
-
-
-
         }
     }
 }
