@@ -1,0 +1,7 @@
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Exercise (Iteration)\Exercise (Iteration)\bin\Debug\Exercise (Iteration).exe.config
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Exercise (Iteration)\Exercise (Iteration)\bin\Debug\Exercise (Iteration).exe
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Exercise (Iteration)\Exercise (Iteration)\bin\Debug\Exercise (Iteration).pdb
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Exercise (Iteration)\Exercise (Iteration)\obj\Debug\Exercise (Iteration).csprojAssemblyReference.cache
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Exercise (Iteration)\Exercise (Iteration)\obj\Debug\Exercise (Iteration).csproj.CoreCompileInputs.cache
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Exercise (Iteration)\Exercise (Iteration)\obj\Debug\Exercise (Iteration).exe
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Exercise (Iteration)\Exercise (Iteration)\obj\Debug\Exercise (Iteration).pdb
