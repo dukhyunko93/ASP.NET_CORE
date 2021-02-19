@@ -1,0 +1,7 @@
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Random Class\Random Class\bin\Debug\Random Class.exe.config
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Random Class\Random Class\bin\Debug\Random Class.exe
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Random Class\Random Class\bin\Debug\Random Class.pdb
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Random Class\Random Class\obj\Debug\Random Class.csprojAssemblyReference.cache
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Random Class\Random Class\obj\Debug\Random Class.csproj.CoreCompileInputs.cache
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Random Class\Random Class\obj\Debug\Random Class.exe
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Random Class\Random Class\obj\Debug\Random Class.pdb
