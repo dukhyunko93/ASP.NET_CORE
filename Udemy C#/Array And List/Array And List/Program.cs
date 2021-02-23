@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Array_And_List
 {
@@ -49,6 +46,32 @@ namespace Array_And_List
                 Console.WriteLine(n);
             }
 
+            var numList = new List<int>() { 1, 2, 3, 4 };
+            numList.Add(10);
+            numList.AddRange(numbers);
+            foreach (var num in numList)
+            {
+                Console.WriteLine(num);
+            }
+            Console.WriteLine("Index");
+            Console.WriteLine("Index:" + numList.IndexOf(1));
+            Console.WriteLine("Index:" + numList.LastIndexOf(1));
+
+            Console.WriteLine("Count:" + numList.Count);
+
+            numList.Remove(1);
+
+            foreach (var num in numList)
+            {
+                if(num == 1)
+                {
+                    numList.Remove(num);
+                }
+            }
+            foreach (var num in numList)
+            {
+                Console.WriteLine(num);
+            }
         }
     }
 }

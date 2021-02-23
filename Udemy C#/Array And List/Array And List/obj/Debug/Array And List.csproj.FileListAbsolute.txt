@@ -5,3 +5,10 @@ C:\Users\TUser\source\repos\Array And List\Array And List\obj\Debug\Array And Li
 C:\Users\TUser\source\repos\Array And List\Array And List\obj\Debug\Array And List.csproj.CoreCompileInputs.cache
 C:\Users\TUser\source\repos\Array And List\Array And List\obj\Debug\Array And List.exe
 C:\Users\TUser\source\repos\Array And List\Array And List\obj\Debug\Array And List.pdb
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Array And List\Array And List\bin\Debug\Array And List.exe.config
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Array And List\Array And List\bin\Debug\Array And List.exe
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Array And List\Array And List\bin\Debug\Array And List.pdb
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Array And List\Array And List\obj\Debug\Array And List.csprojAssemblyReference.cache
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Array And List\Array And List\obj\Debug\Array And List.csproj.CoreCompileInputs.cache
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Array And List\Array And List\obj\Debug\Array And List.exe
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Array And List\Array And List\obj\Debug\Array And List.pdb
