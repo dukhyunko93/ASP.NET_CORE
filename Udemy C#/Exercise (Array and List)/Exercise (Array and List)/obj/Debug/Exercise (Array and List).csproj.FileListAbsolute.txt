@@ -1,0 +1,7 @@
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Exercise (Array and List)\Exercise (Array and List)\bin\Debug\Exercise (Array and List).exe.config
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Exercise (Array and List)\Exercise (Array and List)\bin\Debug\Exercise (Array and List).exe
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Exercise (Array and List)\Exercise (Array and List)\bin\Debug\Exercise (Array and List).pdb
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Exercise (Array and List)\Exercise (Array and List)\obj\Debug\Exercise (Array and List).csprojAssemblyReference.cache
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Exercise (Array and List)\Exercise (Array and List)\obj\Debug\Exercise (Array and List).csproj.CoreCompileInputs.cache
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Exercise (Array and List)\Exercise (Array and List)\obj\Debug\Exercise (Array and List).exe
+C:\Users\TUser\Desktop\Stellar_Learning\Udemy C#\Exercise (Array and List)\Exercise (Array and List)\obj\Debug\Exercise (Array and List).pdb
